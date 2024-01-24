@@ -2,6 +2,8 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+Install `Java Extension Pack` for vscode [here](https://code.visualstudio.com/docs/java/java-tutorial) - Must if you don't have it.
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
